@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pincerctz.github.io/sitemap/sitemap.txt
